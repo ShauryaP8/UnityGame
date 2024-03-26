@@ -29,3 +29,8 @@ I will once again emphasies that this project is in a really early stage as I ha
 
 As the 2 week time period goes on (Starting Wed), I will be upadting this repo with all of the updates and logs for the game Including ScreenShots of the current progress.
 By the end of the 2 week period you should be able to go to an itch.io page and play the game with all the features listed above.
+
+UPDATE LOGS:
+
+UPDATE LOG 1 (V 0.0.0.1); After 2 hours of debuggin I finally got the first part of the endless mode completed the ground now can go on forever. It still needs some debugging but it seems to be working fine. I have got an Issue where I can't get it too load in the obstacles correctly but I am looking all over google for possible 
+solutions to that problem.
